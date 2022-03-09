@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Não vou mentir pra você, eu tenho a pretensão de me tornar a maior referência em Datadog no Brasil. Aqui o corre é pelo trampo, nunca pela lábia.
+    Não vou mentir pra você, eu tenho a pretensão de me tornar a maior referência em Datadog no Brasil. Aqui o corre é pelo trampo, nunca pela lábia!
 </h3>
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/vtoretto/datadog" align="center">
