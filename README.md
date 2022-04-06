@@ -31,7 +31,7 @@ DATADOG NO BIT - é o estudo do Datadog no mínimo detalhe. A ideia principal é
 
 Este projeto é divido em 2 partes:
 1. *Tópicos*, os mesmos abordados no https://learn.datadoghq.com/ e forma correta de se configurar;
-2. *Exploração dos erros de compilação e execução* em decorrência de não se codar da forma que o Java requer.
+2. *Exploração dos erros de compilação e execução* em decorrência de não se codar da forma que a lib Datadog requer.
 
 ### Pré-requisitos
 Se chegou até aqui você sabe que o Datadog é um SAAS e seu pré-requisito de instalação é nenhum. Isso mesmo, nenhum!
